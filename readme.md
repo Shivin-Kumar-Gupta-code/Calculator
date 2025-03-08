@@ -22,7 +22,7 @@ A fully functional and responsive calculator built using **HTML**, **CSS**, and 
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Shivin-Kumar-Gupta-code/calculator.git
    cd calculator
    ```
 
